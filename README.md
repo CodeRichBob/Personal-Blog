@@ -35,3 +35,12 @@
 ## Known bugs
 
     There are currently no known bugs. However the application is open for iprovement
+
+## Would you like to reach out?
+
+    rgitonga07@gmail.com
+
+## License
+
+    * MIT License
+    * Copyright (c) 2022 Robert Gitonga
